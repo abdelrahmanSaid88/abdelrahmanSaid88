@@ -11,7 +11,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelrahmanSaid88)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- 🔭 I’m currently working on **Freelancer**
+- 🔭 I’m currently working As a **Freelancer**
 
 - 🌱 I’m currently learning **Advanced Flutter courses**
 
