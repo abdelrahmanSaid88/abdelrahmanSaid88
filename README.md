@@ -3,7 +3,7 @@
   I'm Abdelrahman Said</h1>
 
 <h3 align="center">A passionate Flutter developer from Egypt</h3>
--  I am interested in developing mobile applications. At first, I was interested in Android Native and after that, I have read a lot about Cross-platform. After that, I started to learn the Cross-platform flutter and did more than one project.
+-  I am interested in developing mobile applications. At first, I was interested in Android Native and after that, I have read a lot about Cross-platform . After that, I started to learn the cross-platform using Flutter And i have accomplished more than one project listed in my personal GitHub account.
 
 
 
